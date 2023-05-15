@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893380533249",
+    "firebase_url": "https://play-integrity-demo-6353a-default-rtdb.firebaseio.com",
+    "project_id": "play-integrity-demo-6353a",
+    "storage_bucket": "play-integrity-demo-6353a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893380533249:android:5a2a95d262a2aab7c1f400",
+        "android_client_info": {
+          "package_name": "com.example.play_integrity_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893380533249-1nueevmgh8mq7tg5scbpor5dfll2vrn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauOcIiQKsac4_MNR3u3HzPAy3_3QK8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893380533249-1nueevmgh8mq7tg5scbpor5dfll2vrn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
